@@ -1,4 +1,4 @@
-# semanaomnistack11
+# semanaomnistack11 (weekomnistack11)
 
 Trabalho acadêmico:
 
